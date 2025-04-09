@@ -27,6 +27,14 @@
 - Integrar com um sistema de governança onde usuários com alta reputação têm mais peso em votações
   
 ## Opening Video:
-
+- 
 
 ## Tutorial:
+- 
+
+## Links úteis
+
+-
+-
+-
+-
